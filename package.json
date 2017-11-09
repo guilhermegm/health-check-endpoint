@@ -2,7 +2,7 @@
   "name": "health-check-endpoint",
   "version": "1.0.0",
   "description": "Health Check Endpoint for Express",
-  "main": "index.js",
+  "main": "./lib/healthCheck.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
