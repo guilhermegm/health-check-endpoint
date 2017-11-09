@@ -1,0 +1,19 @@
+{
+  "name": "health-check-endpoint",
+  "version": "1.0.0",
+  "description": "Health Check Endpoint for Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermegm/health-check-endpoint.git"
+  },
+  "author": "Guilherme Giacchetto Moreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermegm/health-check-endpoint/issues"
+  },
+  "homepage": "https://github.com/guilhermegm/health-check-endpoint#readme"
+}
